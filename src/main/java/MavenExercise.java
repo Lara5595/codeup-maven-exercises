@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class MavenExercise {
 
-
+// On these exercises we use the Maven StringUtils
 
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
