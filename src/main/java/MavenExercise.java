@@ -18,10 +18,10 @@ public class MavenExercise {
             System.out.println(userInput + " Is not a number");
         }
 
+        System.out.println("Flipped Case : " + StringUtils.swapCase(userInput));
 
-        System.out.println(StringUtils.swapCase(userInput));
+        System.out.println("Reverse Case : " + StringUtils.reverse(userInput));
 
-        System.out.println(StringUtils.reverse(userInput));
 
 
 
